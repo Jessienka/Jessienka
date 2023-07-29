@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jessienka
 - 👀 I’m interested in front development and data analysis
 - 🌱 I’m currently learning dash shell and front development
+- 😭 Some LARGE programme would commit after this end of the term
 - 📫 Please reach me by email: jessiewong0917@gmail.com
 
 <!---

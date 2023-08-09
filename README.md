@@ -11,9 +11,12 @@
 Jessienka/Jessienka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-!--
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!--
 
 [![Anurag's GitHub stats](https://github-readme-stats-pi-six-25.vercel.app/api?username=Jessienka&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pi-six-25.vercel.app/api/top-langs/?username=Jessienka&count_private=true&layout=donut-vertical&exclude_repo=Jessienka.github.io,blogs&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
---
+-->
+

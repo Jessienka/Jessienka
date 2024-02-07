@@ -1,11 +1,11 @@
 
 <img src="https://count.getloli.com/get/@Jessienka?theme=asoul" alt="Jessienka" width="500"/>
 
-- 👋 Hi, I’m @Jessienka
-- 👀 I’m interested in front development and data analysis
-- 🌱 I’m currently learning dash shell and front development
-- 😭 Some LARGE programme would commit after this end of the term
-- 📫 Please reach me by email: jessiewong0917@gmail.com
+- 👋 Hi, I’m Jessie
+- 👀 I’m interested in quantitative research, machine learning and data analysis
+- 🌱 I’ve just finished my summer internship at **Aware Super** as an **Investment Intern**
+- 🏆 My preference language: Python, R, MySQL, Dash Shell
+- 📫 Please reach me by email: jessiewong0917@gmail.com or feel free to connect me ![codeline](www.linkedin.com/in/jessie-wong1025)
 
 <!---
 Jessienka/Jessienka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

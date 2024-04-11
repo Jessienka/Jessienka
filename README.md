@@ -7,10 +7,8 @@
 - 🏆 My preference language: Python, R, MySQL, Dash Shell
 - 📫 Please reach me by email: jessiewong0917@gmail.com or feel free to connect me on ![LinkedIn](www.linkedin.com/in/jessie-wong1025)
 
-<!---
-Jessienka/Jessienka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessienka)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Metrics](https://metrics.lecoq.io/Jessienka?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Australia%2FSydney)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)

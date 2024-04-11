@@ -5,7 +5,7 @@
 - 👀 I’m interested in quantitative research, machine learning and data analysis
 - 🌱 I’ve just finished my summer internship at **Aware Super** as an **Investment Intern**
 - 🏆 My preference language: Python, R, MySQL, Dash Shell
-- 📫 Please reach me by email: jessiewong0917@gmail.com or feel free to connect me ![codeline](www.linkedin.com/in/jessie-wong1025)
+- 📫 Please reach me by email: jessiewong0917@gmail.com or feel free to connect me on ![LinkedIn](www.linkedin.com/in/jessie-wong1025)
 
 <!---
 Jessienka/Jessienka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
